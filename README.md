@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddanghyni
-- 👀 I’m interested in STAT
+- 👀 I’m interested in STAT, PYTHON
 - 🌱 I’m currently learning STAT
 
 <!---
